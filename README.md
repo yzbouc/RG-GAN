@@ -3,8 +3,8 @@ Representation-guided Generative Adversarial Network for Unpaired Photo-to-caric
 
 We introduced a representation-guided generative adversarial network (RGGAN) designed to create a vivid caricature appearance from a photo with an imitated painting style. 
 
-![cari.pdf](https://github.com/yzbouc/RG-GAN/blob/master/cari.pdf)
-![demo.pdf](https://github.com/yzbouc/RG-GAN/blob/master/demo.pdf)
+![cari.png](https://github.com/yzbouc/RG-GAN/blob/master/cari.png)
+![demo.png](https://github.com/yzbouc/RG-GAN/blob/master/demo.png)
 
 We will release the codes soon...
 
